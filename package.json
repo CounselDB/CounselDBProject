@@ -1,0 +1,25 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "express": "^4.17.1"
+  },
+  "name": "counseldbsite",
+  "description": "CounselDB Project",
+  "version": "1.0.0",
+  "main": "counselDB.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CounselDB/CounselDB.git"
+  },
+  "author": "A Nordholm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CounselDB/CounselDB/issues"
+  },
+  "homepage": "https://github.com/CounselDB/CounselDB#readme"
+}
